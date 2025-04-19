@@ -10,7 +10,6 @@ I'm a passionate educator turned aspiring iOS developer, blending over 15 years 
 - 📫 Reach me at: **amin.yaghmouri@gmail.com**
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Before diving into tech, I spent over 15 years helping students achieve their goals in English language learning.
-- 
 <!--
 **ayagmuri/ayagmuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
